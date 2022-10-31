@@ -1,0 +1,73 @@
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.exe
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.deps.json
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.runtimeconfig.json
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.runtimeconfig.dev.json
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.dll
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.pdb
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.AssemblyReference.cache
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.localRecyclers_Form.resources
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.GenerateResource.cache
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.GeneratedMSBuildEditorConfig.editorconfig
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.AssemblyInfoInputs.cache
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.AssemblyInfo.cs
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.CoreCompileInputs.cache
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.dll
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\refint\LocalRecyclers.dll
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.pdb
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.genruntimeconfig.cache
+G:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\ref\LocalRecyclers.dll
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.exe
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.deps.json
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.runtimeconfig.json
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.runtimeconfig.dev.json
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.dll
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\ref\LocalRecyclers.dll
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.pdb
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.AssemblyReference.cache
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.localRecyclers_Form.resources
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.GenerateResource.cache
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.GeneratedMSBuildEditorConfig.editorconfig
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.AssemblyInfoInputs.cache
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.AssemblyInfo.cs
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.CoreCompileInputs.cache
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.dll
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\ref\LocalRecyclers.dll
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.pdb
+E:\TAFE\Visual Studio Projects\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.genruntimeconfig.cache
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.exe
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.deps.json
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.runtimeconfig.json
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.runtimeconfig.dev.json
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.dll
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\ref\LocalRecyclers.dll
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.pdb
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.AssemblyReference.cache
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.localRecyclers_Form.resources
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.GenerateResource.cache
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.GeneratedMSBuildEditorConfig.editorconfig
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.AssemblyInfoInputs.cache
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.AssemblyInfo.cs
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.CoreCompileInputs.cache
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.dll
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\ref\LocalRecyclers.dll
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.pdb
+E:\TAFE\1 Mondays\ICTPRG443\AT2 Due 16-5-22\ICTPRG443_AT2_PE_ Pidd_473159414\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.genruntimeconfig.cache
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.exe
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.deps.json
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.runtimeconfig.json
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.runtimeconfig.dev.json
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.dll
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\LocalRecyclers.pdb
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.AssemblyReference.cache
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.localRecyclers_Form.resources
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.Properties.Resources.resources
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.GenerateResource.cache
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.AssemblyInfoInputs.cache
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.AssemblyInfo.cs
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.csproj.CoreCompileInputs.cache
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.dll
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\ref\LocalRecyclers.dll
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.pdb
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\obj\Debug\net5.0-windows\LocalRecyclers.genruntimeconfig.cache
+E:\Visual studio\LocalRecyclers\LocalRecyclers\LocalRecyclers\bin\Debug\net5.0-windows\ref\LocalRecyclers.dll

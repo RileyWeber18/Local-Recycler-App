@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LocalRecyclers</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:LocalRecyclers.localRecyclers_Form" -->
+        <!-- Badly formed XML comment ignored for member "M:LocalRecyclers.localRecyclers_Form.#ctor" -->
+        <member name="M:LocalRecyclers.localRecyclers_Form.ReadRecylerData">
+            <summary>
+            ReadRecylerData method: Read external file data and set up recyclerList 
+            Get external file source 
+            Read external file
+            StreamReader Object
+            Split the line into a string array
+            Assign array values to string variables
+            Create Recycler instance
+            Add instance to recyclerList
+            file.Close()
+            </summary>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.DisplayRecyclerData">
+            <summary>
+            DisplayRecyclerData method
+            Displays Busness Name, Phone and Website in table
+            </summary>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.DisplayCurrentRecord">
+            <summary>
+            DisplayCurrentRecord method
+            Displays data in textboxes
+            </summary>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.clear_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+             clear_Button Event Handler
+             Clears textboxes
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.IsRecyclerValid">
+            <summary>
+            IsRecyclerValid Method
+            Validates inputs for textboxes
+            Declare Boolean, name it “recyclerStatus” assign it a value of “true”
+            Check name
+            if (String.IsNullOrEmpty(businessName_TextBox.Text))
+            {
+            recyclerStatus = false;
+            errorMessage += "The Business name is required\n";
+            }
+            Repeat for
+            Check address
+            Check phone
+            Check website
+            Check recycles
+            Display error message if there are errors encountered
+            </summary>
+            <returns> recyclerStatus </returns>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.addNew_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+            Add New Record Button Event Handler
+            Adds new record to recycler csv file
+            prompt the user to proceed with the save
+            if Yes button clicked, then proceed
+            Get all 5 values for the new recycler
+            Create new recycler object
+            Add to the recyclerList
+            re-sort the recyclerList
+            display newly sorted recycler list
+            get index number of new recycler
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.update_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+            update Button Event Handler
+            Updates record of current business
+            Prompt the user to proceed with the save
+            if Yes button clicked, then proceed
+            Get all 5 values for the new recycler
+            Create new recycler object
+            Change current record recyclerList
+            re-sort the recyclerList
+            Display newly sorted recycler list
+            Get index number of new recycler
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.previous_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+            Previous Button Event Handler
+            Go to previous record in recycler list
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.next_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+            next Button Event Handler
+            Go to next record in recycler list
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.exit_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+            Save and Exit Button Event Handler
+            Save all records from the list
+            Save to external file
+            StreamWriter object
+            Write out headings
+            Loop through each instance
+            Write a line for each instance
+            Close the file
+            Exists application, WinForms app, Console app
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.BinarySearch(System.Collections.Generic.List{LocalRecyclers.Recycler},System.String)">
+            <summary>
+            BinarySearch Method
+            Loop while foundStatus is false AND first is less than or equal to last
+            Get mid index value
+            Check if string to search is less than the value positioned in the middle of the sorted list
+            if it is, then change the last position to that of the middle less 1
+            Check if string to search is greater than the value positioned in the middle of the sorted list
+            if it is, then change the first position to that of the middle plus 1
+            Otherwise, the value has been found then break out of the loop 
+            </summary>
+            <param name="recyclerList"></param>
+            <param name="businessNameToSearch"></param>
+            <returns> foundIndex </returns>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.binarySearch_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+            Binary Search Button Event Handler
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.first_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+            First Botton Event Handler
+            Goes to first listing of currentrecord
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.button4_Click(System.Object,System.EventArgs)">
+            <summary>
+            Last Button Event Handler
+            Goes to last listing of currentrecord
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.delete_Button_Click(System.Object,System.EventArgs)">
+            <summary>
+            delete Button Event Handler
+            Deletes current record from recycler csv
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:LocalRecyclers.localRecyclers_Form.components">
+            <summary>
+             Required designer variable.
+            </summary>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.Dispose(System.Boolean)">
+            <summary>
+             Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:LocalRecyclers.localRecyclers_Form.InitializeComponent">
+            <summary>
+             Required method for Designer support - do not modify
+             the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:LocalRecyclers.Program.Main">
+            <summary>
+             The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:LocalRecyclers.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:LocalRecyclers.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:LocalRecyclers.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:LocalRecyclers.Recycler">
+            <summary>
+            Recycler class
+            Public properties
+            string Name { get; set; }
+            string Address { get; set; }
+            string Phone { get; set; }
+            string Website { get; set; }
+            string Recycles { get; set; }
+            </summary>
+        </member>
+        <member name="M:LocalRecyclers.Recycler.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            public parameterised constructor method
+            </summary>
+            <param name="name"></param>
+            <param name="address"></param>
+            <param name="phone"></param>
+            <param name="website"></param>
+            <param name="recycles"></param>
+        </member>
+        <member name="M:LocalRecyclers.Recycler.ToString">
+            <summary>
+            ToString Method
+            string recyclerString = Name + "\t" + Address + "\t" + Phone + "\t" + Website + "\t" + Recycles;
+            </summary>
+            <returns> recyclerString </returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:LocalRecyclers.Recycler.CompareTo(LocalRecyclers.Recycler)" -->
+        <member name="M:LocalRecyclers.Recycler.ToCSVString">
+            <summary>
+            ToCSVString Method
+            return Name + "," + Address + "," + Phone + "," + Website + "," + Recycles;
+            </summary>
+            <returns> Name, Address, Phone, Website, Recycles </returns>
+        </member>
+    </members>
+</doc>
